@@ -129,7 +129,7 @@ Tried to group the folder structure with the most relevant ones.
 
 ## 1. Use NextJS Client Server and Cookies
 
-- CORS issue was resolved using NextJS Client server. Because CORS is a browser issue, we used the NEXTJS client server as a proxy server to solve CORS.
+- CORS issue was resolved using NextJS Client server. Because CORS is a browser issue, used the NEXTJS client server as a proxy server to solve CORS.
 - The incoming accessToken was saved and used in the cookie. The advantage was that the client did not have to implement authorization because it was verified by the API server and redirected to login if there was no COOKIE.
 
 ## 2. Account list - Filtering, pageation, and search implementation
