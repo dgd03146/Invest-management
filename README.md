@@ -1,9 +1,5 @@
-# 
-
 # Customer Investment Management Dashboard
-
 # How to set up and run your environment
-
 ## Client Preferences
 
 **Recommended running on NodeJS 16.14.2.**
