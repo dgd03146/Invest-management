@@ -1,4 +1,4 @@
-# Customer Managemen
+# Customer Management
 # How to set up and run your environment
 ## Client Preferences
 
