@@ -1,4 +1,4 @@
-# Customer Investment Management Dashboard
+# Customer Managemen
 # How to set up and run your environment
 ## Client Preferences
 
