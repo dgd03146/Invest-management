@@ -41,7 +41,7 @@ Requirements
 - ~~Follow the basic design system of your library, but expand it and develop it if necessary.~~
 - ~~A separate API server development is not required.~~
 - Development using json-server that comes with the assignment~
-- ~~~ API response values are always assumed to be a normal response, but~~ There are additional points due to exception handling such as server error response, failure response, timeout, etc.
+- API response values are always assumed to be a normal response, but~~ There are additional points due to exception handling such as server error response, failure response, timeout, etc.
 - ~~It should work fine on a typical user PC (1280x1024 or later) screen.~~
 - ~~If you need any conditions, you can add them.~~
 - ~~There are no conditions for use such as specific packages.~~
