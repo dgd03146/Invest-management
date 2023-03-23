@@ -1,4 +1,4 @@
-# Customer Management
+# Invest Management
 # How to set up and run your environment
 ## Client Preferences
 
